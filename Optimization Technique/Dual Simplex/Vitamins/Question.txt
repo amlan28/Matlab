@@ -1,0 +1,6 @@
+Egg contains 6 units A and 7 units of B per gram and costs 12 paise per
+gram. Milk contains 8 units of vitamin A and 12 units of Vitamin B and
+costs 20 paise per gram. The daily minimum requirement of vitamin
+A and vitamin B are 100 units and 120 units respectively. Find the
+optimal product mix. (Hint: Let x1 and x2 are the number of units of
+egg and milk)
