@@ -1,0 +1,6 @@
+A firm that produces two products has limitations on its machine and labour time. There are 240
+hours of machine time and 300 hours of labour time available during the production period. A unit of the first product requires 4 hours of
+machine time and 3 hours of labour time. The second product takes 6
+and 8 hours of machine and labour time, respectively. A unit of product 1 and product 2 generates profits of 10.00and12.00, respectively.
+The economic problem is to find the levels of products 1 and 2 that
+maximize profit and allocate economic resources efficiently
