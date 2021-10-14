@@ -1,0 +1,11 @@
+In this problem, a patient visits the doctor to get treatment for ill
+health. The doctor examines the patient and advises him to consume
+at least 40 units of vitamin A and 50 units of vitamin B daily for a specified time period. He also advises the patient that to get vitamin A and
+vitamin B he has to drink tonic X and tonic Y that have both vitamin
+A and vitamin B in a proportion. One unit of tonic X consists 2 units of
+vitamin A and 3 units of vitamin B and one unit of tonic Y consists of 4
+units of vitamin A and 2 units of vitamin B. These tonics are available
+in medical shops at a cost of Rs.3.00 and Rs.2.50 per unit of X and Y
+respectively. Now the problem of patient is how much of X and how
+much of Y is to be purchased from the shop to minimise the total cost
+and at the same time he can get required amounts of vitamins A and B.
