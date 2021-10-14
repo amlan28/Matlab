@@ -1,0 +1,4 @@
+In a game of matching coins with players, suppose A wins Rs. 30, when
+there are two heads, wins nothing when there are two tails and loses
+Rs. 20 when there are one head and one tail. Determine value of the
+game to A.
