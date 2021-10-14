@@ -1,0 +1,9 @@
+A patient in a hospital is required to have at
+least 84 units of dug A and 120 units of dug B each day. Each gram
+of substance M contains 10 units of drug A and 8 units of B, and each
+gram of substance N contains 2 units of drug A and 4 units of drug B.
+Now suppose that both M and N contain an undesirable drug C, 3 units
+per gram in M and 1 unit per gram in N. How many grams of substance
+M and N should be mixed to meet the minimum daily requirement at
+the same time minimize the intake of drug C? How many units of the
+desirable drag C will be in this mixture?
