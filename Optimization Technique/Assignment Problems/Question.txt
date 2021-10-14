@@ -1,0 +1,12 @@
+A company has 5 jobs to be done on five machines. Any job can be done
+on any machine. The cost of doing the jobs on different machines are
+given below. Assign the jobs for different machines so as to minimize
+the total cost
+
+Jobs     Machines
+      A  B   C  D   E
+ 1   13  8   16 18  19
+ 2    9  15  24  9  12
+ 3   12  9    4  4   4
+ 4    6  12  10  8  13
+ 5   15  17  18  12 20
