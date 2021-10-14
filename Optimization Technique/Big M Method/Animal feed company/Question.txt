@@ -1,0 +1,5 @@
+An animal feed company must produce 200
+kg of a mixture consisting of ingredients X1, and X2 daily. X1 cost Rs.
+3 per kg and X2 Rs. 8 per kg. Not more than 80 kg of X1 can be
+used, and at least 60 kg of X2 must be used. Find how much of each
+ingredient should be used if the company wants to minimise cost.
