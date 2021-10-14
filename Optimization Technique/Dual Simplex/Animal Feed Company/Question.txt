@@ -1,0 +1,5 @@
+An animal food company at least produce 200kg of ingredients x1 and
+x2 daily. x1 costs Rs.3 per kg and x2 Rs. 8 per kg. Not more than 80 kg
+of x1 can be used and at least 60kg of x2 must be used. Formulate the
+LP model to minimize the cost and compute the optimal cost. (Hint:
+Let x1 and x2 are the ingredients in the mixture as expressed in kg.)
