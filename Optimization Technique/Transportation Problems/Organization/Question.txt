@@ -1,0 +1,8 @@
+An organization has four destinations and three sources for supply of
+goods. The transportation cost per unit is given below. Find the optimal solution
+
+        W1  W2  W3  W4 Supply
+   P1   13  16  19  17  250
+   P2   17  19  16  25  200
+   P3   25  27  17  16  250
+Demand 100 250 250 100  750
