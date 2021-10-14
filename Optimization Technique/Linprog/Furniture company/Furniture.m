@@ -1,6 +1,13 @@
 #name-Amlan Nayak
 #reg. no.-19BCD7143
 
+#Maximize: P = 7 T + 5 C
+#Subject to (constraints)
+#Carpentry restriction: 4 T + 3 C ≤ 240
+#Painting restriction: 2 T + C ≤ 100
+#Inventory condition: C ≤ 60
+#Non-negativity condition:
+#T≥ 0, C≥0
 
 f=-[7 5];
 A=[4 3;2 1];
