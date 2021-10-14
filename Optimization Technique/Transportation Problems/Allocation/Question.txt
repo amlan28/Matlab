@@ -1,0 +1,11 @@
+A company has three plants P1, P2 and P3, four warehouse W1, W2, W3
+and W4 The number of units available at the plants is 11, 13, 19 and
+the demand at warehouse W1, W2, W3 and W4 is 6, 10, 12, 15 respectively. The unit cost of the transportation is given in the following
+table:
+Find the allocation so that the total transportation cost is minimum.
+
+W1 W2 W3 W4 Supply
+P1 21 16 25 43 11
+P2 25 18 14 53 13
+P3 32 27 18 41 19
+Demand 6 10 12 15 43
