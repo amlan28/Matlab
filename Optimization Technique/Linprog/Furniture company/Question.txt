@@ -1,0 +1,9 @@
+A furniture company produces tables and chairs.
+The production process for each is similar in that both require a certain
+number of hours of carpentry work and certain number of labour hours
+in the painting department. Each table takes 4 hours of carpentry and
+2 hours in the painting department. Each chair requires 3 hours of
+carpentry and 1 hour in the painting department. During the current
+production period, 240 hours of carpentry time are available and 100
+hours in painting is available. Each table sold yields a profit of e7, each
+chair is sold for a e5 profit.
